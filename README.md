@@ -1,7 +1,7 @@
 # Module_6_Challenge
 This is the challenge homework for module #6, PyVi
 
-San Francisco Real Estate Analysis
+San Francisco Real Estate Analysis:  
 An interactive analysis of San Francisco's real estate trends using Python libraries such as Pandas, hvPlot, and GeoViews.
 
 Introduction.  
